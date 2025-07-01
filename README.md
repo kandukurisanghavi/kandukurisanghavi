@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sanghavi Kandukuri!
 
 🎓 Master’s Student in Information Technology  
-📊 Aspiring Data Analyst | 🛠 Full-Stack Developer  
+📊 Aspiring Data Analyst  
 📍 Manchester, New Hampshire, USA  
 💼 Actively seeking Data Analyst, BI Analyst, or Backend Internships & Full-Time Roles
 
@@ -59,5 +59,5 @@ Even though I analyze data and write code every day, I start each morning with a
 
 > "Rooted in values, driven by logic. I believe in building with purpose — whether it's a dashboard, a database, or a Django app."
 
-🌟 Scroll down to explore my pinned projects!
+🌟 Scroll down to explore my  projects!
 
