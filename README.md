@@ -1,63 +1,66 @@
 # 👋 Hi there, I'm Sanghavi Kandukuri!
 
-🎓 Master’s Student in Information Technology  
-📊 Aspiring Data Analyst  
-📍 Manchester, New Hampshire, USA  
-💼 Actively seeking Data Analyst, BI Analyst, or Backend Internships & Full-Time Roles
+🎓 Master's Student in Information Technology  
+📊 Aspiring Data Analyst |  📈 Business Analyst
+📍 Manchester, NH | 💼 Open to Data Analyst,Business Analyst, Backend, or Full-Stack Roles
 
 ---
 
-## 💡 About Me
+## 🌟 About Me
 
-I'm a data-driven problem solver with a strong interest in building impactful, real-world solutions. My work combines backend logic with data storytelling — blending structure with meaning.  
-Though I come from a place of faith, I thrive in logic — which reflects in my projects like **BibleQuest**, a Django web app that merges spiritual engagement with clean backend architecture and data operations.
-
----
-
-## 🔭 Currently Building
-
-- 📖 **BibleQuest** – A full-stack web app for interactive Bible learning (Python, Django, API integration, SQLite).
-- 📊 **Personal Finance Dashboard** – Power BI dashboard tracking real-life income, spending, and insights.
-- 🛡️ **S.H.I.E.L.D. SQL Project** – Superhero-themed SQL system using joins, CTEs, and window functions for complex data queries.
+I'm a passionate and purpose-driven individual blending data logic with human impact. While deeply rooted in analytical thinking, I also built a spiritual web app called **BibleQuest**, showing that faith and tech can harmonize. I strive to turn real-world problems into clear, data-backed solutions through storytelling, backend design, and modern data tools.
 
 ---
 
-## 🎓 Currently Learning
+## 🔭 Projects That Reflect My Journey
 
-- 📚 **Google Data Analytics Professional Certificate (Coursera)**  
-  Gaining hands-on experience in spreadsheets, SQL, data visualization, and R programming.  
-  Focused on data cleaning, analysis, and business decision-making.
-
-- 🛠 **Portfolio Enhancement**  
-  Working on additional Power BI and SQL projects to reinforce real-world problem-solving capabilities.
+- 📖 **BibleQuest** – A full-stack Bible study platform built with Django and Python, featuring search tools, daily verses, quizzes, and a prayer wall.
+- 🛡️ **S.H.I.E.L.D. SQL Database** – A fictional superhero-themed SQL project using joins, CTEs, and window functions for mission analytics.
+- 💰 **Personal Finance Dashboard** – A Power BI dashboard tracking real-life income, spending, and savings over 18 months with DAX insights.
 
 ---
 
-## 🧠 Skills & Tools
+## 🧠 Technical Skills
 
-**Languages & Tools**  
-Python • SQL • Power BI • Django • HTML/CSS • Bootstrap • Git • SQLite • PostgreSQL • Excel
+### Languages & Tools  
+Python • SQL • Power BI (DAX) • Tableau • Excel (VBA, PivotTables) • R • Django • HTML/CSS • Bootstrap  
 
-**Core Competencies**  
-Data Cleaning • Data Visualization • APIs • Web Development • Backend Logic • Agile • Data Storytelling
+### Databases & ETL  
+Snowflake • ETL Pipelines • Data Cleaning • OLAP • Data Modeling • Data Warehousing  
 
----
+### Platforms  
+VS Code • Git • Jira • Google Workspace • AWS • Azure  
 
-## 📫 Connect with Me
+### Other  
+PowerShell • Bash  
 
-- 💌 Email: sanghavikandukuri@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/sanghavi-kandukuri](https://www.linkedin.com/in/sanghavi-kandukuri)  
-- 📂 GitHub Projects: [github.com/kandukurisanghavi](https://github.com/kandukurisanghavi)
-
----
-
-## 😄 Fun Fact
-
-Even though I analyze data and write code every day, I start each morning with a Bible verse — because I believe the heart and logic can go hand-in-hand when solving meaningful problems.
+### Soft Skills  
+Analytical Thinking • Communication • Adaptability • Team Collaboration • Attention to Detail • Agile Project Management  
 
 ---
 
-> "Rooted in values, driven by logic. I believe in building with purpose — whether it's a dashboard, a database, or a Django app."
+## 📚 Currently Learning
 
-🌟 Scroll down to explore my  projects!
+- 📈 Coursera Google Data Analytics Professional Certificate  
+- 🧪 Real-world business analytics using Python & SQL  
+- ☁️ Exploring cloud-based data workflows (AWS, Snowflake)
 
+---
+
+## 🔗 Connect With Me
+
+- 📧 Email: sanghavikandukuri@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanghavi-kandukuri)  
+
+
+---
+
+## 🎯 Fun Fact
+
+Even though I come from a place of faith, I thrive in logic. That blend makes me a balanced, curious, and grounded developer. I believe every dataset tells a story — and I love being the one to uncover it.
+
+> “Clean data. Clean code. Clear impact.”
+
+---
+
+⭐ Check out my  repositories below for hands-on proof of my skills!
