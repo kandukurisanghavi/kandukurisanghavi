@@ -4,13 +4,13 @@
 📊 Aspiring Data Analyst |  📈 Business Analyst
 📍 Manchester, NH | 💼 Open to Data Analyst,Business Analyst, Backend, or Full-Stack Roles
 
----
+
 
 ## 🌟 About Me
 
 I'm a passionate and purpose-driven individual blending data logic with human impact. While deeply rooted in analytical thinking, I also built a spiritual web app called **BibleQuest**, showing that faith and tech can harmonize. I strive to turn real-world problems into clear, data-backed solutions through storytelling, backend design, and modern data tools.
 
----
+
 
 ## 🔭 Projects That Reflect My Journey
 
@@ -18,7 +18,7 @@ I'm a passionate and purpose-driven individual blending data logic with human im
 - 🛡️ **S.H.I.E.L.D. SQL Database** – A fictional superhero-themed SQL project using joins, CTEs, and window functions for mission analytics.
 - 💰 **Personal Finance Dashboard** – A Power BI dashboard tracking real-life income, spending, and savings over 18 months with DAX insights.
 
----
+
 
 ## 🧠 Technical Skills
 
@@ -37,7 +37,7 @@ PowerShell • Bash
 ### Soft Skills  
 Analytical Thinking • Communication • Adaptability • Team Collaboration • Attention to Detail • Agile Project Management  
 
----
+
 
 ## 📚 Currently Learning
 
@@ -45,7 +45,7 @@ Analytical Thinking • Communication • Adaptability • Team Collaboration �
 - 🧪 Real-world business analytics using Python & SQL  
 - ☁️ Exploring cloud-based data workflows (AWS, Snowflake)
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -53,7 +53,7 @@ Analytical Thinking • Communication • Adaptability • Team Collaboration �
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanghavi-kandukuri)  
 
 
----
+
 
 ## 🎯 Fun Fact
 
